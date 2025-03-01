@@ -5,6 +5,6 @@ export default function Error() {
   return <div>
 
 
-    <img src={error} alt="" />
+    <img src={error} alt="hello git new branch 01-03-2025-a" />
   </div>;
 }
